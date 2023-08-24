@@ -53,7 +53,7 @@ local whitelist = {
     "leithina",
     "vibez_qxys",
     "Rockifails123456",
-    "xkinq_Fxrce",
+    "EFREWFTEWT",
     "jaguarisfast" -- giveaway winner
 }
 
