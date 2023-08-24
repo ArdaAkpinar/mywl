@@ -65,7 +65,7 @@ game.StarterGui:SetCore("SendNotification",{
 			Text = "Loading will take some seconds...";
 			Duration = 5;
 })
-    loadstring(game:HttpGet('[https://raw.githubusercontent.com/ArdaAkpinar/drag/main/README.md%22'))()
+    loadstring(game:HttpGet('(https://raw.githubusercontent.com/ArdaAkpinar/dragyeni/main/README.md)'))()
 else
     game.Players.LocalPlayer:Kick("It's not TPS SS!")
 end
