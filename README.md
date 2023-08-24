@@ -13,7 +13,7 @@ local whitelist = {
     "Arda1420",
     "Arda1420",
     "Arda1420",
-    "Arda1420",
+    "TPS_BARBAROS", --1day 24.08.23
     "EFREWFTEET" -- giveaway winner
 }
 
