@@ -12,7 +12,7 @@ local whitelist = {
     "Arda1420",
     "Arda1420",
     "h3lln3d",
-    "Tpsciawain",
+    "tpsciawain",
     "TrCasillas", 
     "EFREWFTEWT" -- giveaway winner
 }
