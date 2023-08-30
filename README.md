@@ -12,7 +12,7 @@ local whitelist = {
     "Zzz_tps2",
     "2525israfil",
     "itsh0r",
-    "tpsciawain", --me
+    "Arda1420", --me
     "Arda1420", 
     "EFREWFTEWT" -- giveaway winner
 }
