@@ -8,7 +8,7 @@ local whitelist = {
     "qazztr",
     "31cihasanxd",
     "azemessi3a",
-    "arda",
+    "madridhayatimolmus", --yarın vericek
     "Zzz_tps2",
     "2525israfil",
     "itsh0r",
