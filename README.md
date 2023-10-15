@@ -11,7 +11,7 @@ local whitelist = {
     "madridhayatimolmus", --yarın vericek
     "Zzz_tps2",
     "2525israfil",
-    "itsh0r",
+    "ARDAEda1",
     "tpsciawain", --me
     "harunisteaq9", 
     "EFREWFTEWT" -- giveaway winner
