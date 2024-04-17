@@ -10,7 +10,7 @@ local whitelist = {
     "azemessi3a",
     "madridhayatimolmus", --yarın vericek
     "Zzz_tps2",
-    "2525israfil",
+    "OyunDelisiYT6",
     "ARDAEda1",
     "tpsciawain", --me
     "harunisteaq9", 
